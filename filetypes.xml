@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <removed_mapping ext="ttf" approved="true" type="Font" />
       <mapping ext="ogg" type="Native" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
