@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="newAct" value="Intent intent=new Intent($className$.this,$destinationClass$.class);&#10;startActivity(intent);" description="start new activity" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="destinationClass" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
